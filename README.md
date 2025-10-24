@@ -1,5 +1,5 @@
 # Code-Tech-task-4-internship- 
-name: Paeimala madanapalle 
+name: Parimala madanapalle 
 
 CodTech Internship Task 4: Advanced Encryption Tool
 
